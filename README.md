@@ -1,10 +1,9 @@
 # Hi, I'm Joao Gabriel! 
 
-<a href="https://github.com/JoaoGabriielDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriielDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriielDev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+
+  <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 </div>
 <div style = "display: inline_block"><br/>
