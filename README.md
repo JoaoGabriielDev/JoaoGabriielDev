@@ -1,6 +1,6 @@
 # Hi, I'm Joao Gabriel! 
 
-<div align="center"> 
+div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriielDev&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 
   <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriielDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
