@@ -1,8 +1,6 @@
-# Hi, I'm Joao Gabriel! 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Gustavo+Barbosa;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Joao+Gabriel;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
